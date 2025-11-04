@@ -6,8 +6,8 @@ r.ping()
 
 # cria uma sala
 
-r.hset("2367", "p1", "2")
-r.hset("2367", "p2", "1")
+# r.hset("2367", "p1", "")
+r.hset("2367", "p2", "3")
 
 # mostra resultados
 dados = r.hgetall("2367")
