@@ -1,6 +1,6 @@
 import redis 
 
-r = redis.Redis(host='10.1.68.172', port=6379, db=0)
+r = redis.Redis(host='10.1.69.134', port=6379, db=0)
 r.ping()
 
 # cria uma sala
