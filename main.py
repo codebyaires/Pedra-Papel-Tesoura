@@ -31,7 +31,7 @@ def front(state: int, user_credits, player2=0, player1=0):
         print("+     \\\\//   \\\\//  | \\_/|       +")
         print("+        +--+      |+--+|       +")
     elif state == 3:
-        print("+       (-_-` )🖕 [*`_´*]       +")
+        print("+       (-_-` ) 🖕[*`_´*]       +")
         print("+       |\\_/ |  \\\\//   \\\\//     +")
         print("+        +--+      |+--+|       +")
     print("+       / || \\     / || \\       +")
