@@ -21,17 +21,17 @@ def front(state: int, user_credits, player2=0, player1=0):
     if state == 0:
         print("+       (´-_-`)   [´-_-`]       +")
         print("+       \\\\  //     \\\\  //       +")
-        print(f"+       [{p2_icon}]//|     |\\\\[{p1_icon}]     +")
+        print(f"+       [{p1_icon}]//|     |\\\\[{p2_icon}]     +")
     elif state == 1:
         print("+       (´-_-`)   [´-_-`]       +")
         print("+        | \\\\ \\\\  // // |       +")
-        print(f"+        +--\\[{p2_icon}][{p1_icon}]/--+       +")
+        print(f"+        +--\\[{p1_icon}][{p2_icon}]/--+       +")
     elif state == 2:
-        print("+       (*`_´*) 🖕[ ´-_-]       +")
+        print("+       (*`_´*)🖕 [ ´-_-]       +")
         print("+     \\\\//   \\\\//  | \\_/|       +")
         print("+        +--+      |+--+|       +")
     elif state == 3:
-        print("+       (-_-` ) 🖕[*`_´*]       +")
+        print("+       (-_-` )🖕 [*`_´*]       +")
         print("+       |\\_/ |  \\\\//   \\\\//     +")
         print("+        +--+      |+--+|       +")
     print("+       / || \\     / || \\       +")
