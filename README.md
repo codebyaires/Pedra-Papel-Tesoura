@@ -90,7 +90,8 @@ Façam suas jogadas (1, 2 ou 3) e assistam ao resultado!
 
 O jogo continuará automaticamente para a próxima rodada.
 
-👥 Autores
+## 👥 Autores
+
 [Victor Aires] - (https://github.com/codebyaires)
 
 [Vitor] - (https://github.com/Vitor-ALucn)
