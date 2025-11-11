@@ -91,6 +91,6 @@ Façam suas jogadas (1, 2 ou 3) e assistam ao resultado!
 O jogo continuará automaticamente para a próxima rodada.
 
 👥 Autores
-[Victor Aires] - (username-github)
+[Victor Aires] - (https://github.com/codebyaires)
 
-[Vitor] - (@username-colega-github)
+[Vitor] - (https://github.com/Vitor-ALucn)
