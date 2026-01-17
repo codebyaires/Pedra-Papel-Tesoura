@@ -1,4 +1,4 @@
-# newixx
+# Pedra, Papel e Tesoura
 # 🎮 Pedra, Papel e Tesoura em Rede com Redis 👊🖐✌️
 
 Projeto acadêmico desenvolvido para a disciplina de Banco de Dados do Curso Técnico em Desenvolvimento de Sistemas - SENAI.
